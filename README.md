@@ -2,6 +2,7 @@
 
 ### Hi everybody 👋
 I'm Brieuc, a web developer from France. I'm currently working on React.JS/Node.JS and big welcome on my github profile !!
+- 📫 How to reach me: Profil Linkedin : https://www.linkedin.com/in/brieuc-quertier/
 <!--
 **BrieucQ/BrieucQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
