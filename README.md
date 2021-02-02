@@ -1,3 +1,5 @@
+![Cover](https://github.com/BrieucQ/BrieucQ/blob/master/img/norvege.jpeg)
+
 ### Hi everybody 👋
 I'm Brieuc, a web developer from France. I'm currently working on React.JS/Node.JS and big welcome on my github profile !!
 <!--
